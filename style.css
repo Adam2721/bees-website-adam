@@ -1,0 +1,51 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  background-color: #fffbee;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 2em;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+ul.facts-list {
+  list-style-type: none;
+  padding-left: 0;
+  display: inline-block;
+  text-align: left;
+}
+
+ul.facts-list li {
+  background-color: #ffeb4b;
+  margin: 10px 0;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #fbc02d;
+  max-width: 900
+}
+
+figure {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 5px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
